@@ -11,7 +11,7 @@ node index.js
 (no need for running the ``` mongod ``` server locally) 
 since it is being connected it to the mongoDB Atlas.
 
-## Once the app started, we can see all the image and its details which is already being stored in the DB.
+## Once the app started, we can see all the images and its details which is already being stored in the DB.
 
 We can go through a particular image by just typing the name of that image at the end of the url (sending GET request)
 
