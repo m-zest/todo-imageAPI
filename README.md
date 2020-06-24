@@ -20,5 +20,5 @@ example- ``` http://localhost:3001/Image1 ```
 ### We can add image by sending a POST request through **POSTMAN** url- ```http://localhost:3001```
 and in that we have to provide the name, url, and type of the image in the body.
 
-### We can get all the images and its details which is all stored in an array by sending a GET request through POSTMAN url- ```http://localhost:3001```
+### We can get the array of images by sending a GET request through POSTMAN url- ```http://localhost:3001```
 Every image has a particular id related to it.
