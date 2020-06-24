@@ -1,6 +1,6 @@
 # todo-imageAPI
 
-### First intall all the dependencies which is there in the package.json file using command(should be in the same directory)
+### First install all the dependencies which is there in the package.json file using command(should be in the same directory)
 ```
 npm install
 ```
