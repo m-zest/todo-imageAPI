@@ -13,7 +13,7 @@ I have connected it to the mongoDB Atlas.
 
 ## Once the app started, we can see all the image and its details which is being stored in the db.
 
-We can go through a particular image by just typing the name of that image at the end of the url
+We can go through a particular image by just typing the name of that image at the end of the url (sending GET request)
 ex ``` http://localhost:3001/Image1 ```
 
 ### We can add image by sending a POST request through **POSTMAN**
